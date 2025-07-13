@@ -52,6 +52,30 @@ You should see:
 Broker started on port 4222
 ```
 
+## 🧪 How to Test (With telnet)
+
+1. Open Two Terminals
+In Terminal A:
+```bash
+telnet localhost 4222
+```
+Then type:
+```bash
+SUB news
+```
+In Terminal B:
+```bash
+telnet localhost 4222
+```
+Then type:
+```bash
+PUB news Hello from another client!
+```
+Expected Output in Terminal A:
+```bash
+[news] Hello from another client!
+```
+
 ## 🧠 Protocol Overview
 
 Command	Format	Description
