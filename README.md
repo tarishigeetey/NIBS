@@ -81,9 +81,4 @@ Built as a learning project to understand protocol design, sockets, and messagin
 
 Feel free to fork and enhance the broker — PRs with persistence, retries, or message filtering are appreciated!
 
-```yaml
-
-Would you like this pushed to a GitHub repo with the `.java` files so you can share or deploy easily? I can also add **unit tests** if you want to move toward TDD.
-
-```
 
