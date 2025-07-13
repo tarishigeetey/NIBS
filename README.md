@@ -96,10 +96,9 @@ Each client is handled in its own thread.
  WebSocket support for browser clients
  Test suite with JUnit
 
-## 🧑‍💻 Author
+## 🧑‍💻 Purpose
 
-Tarishi Geetey
-Built as a learning project to understand protocol design, sockets, and messaging systems. Inspired by the NATS protocol.
+I Built it as a learning project to understand protocol design, sockets, and messaging systems. Inspired by the NATS protocol.
 
 ## 🙌 Contributions Welcome!
 
